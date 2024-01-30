@@ -1,0 +1,55 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol _gladLoadGLLoader referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+main.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSetInputMode referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+main.obj : error LNK2019: unresolved external symbol _glfwSetCursorPosCallback referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+main.obj : error LNK2001: unresolved external symbol _glad_glTexParameteri
+main.obj : error LNK2001: unresolved external symbol _glad_glTexImage2D
+main.obj : error LNK2001: unresolved external symbol _glad_glClear
+main.obj : error LNK2001: unresolved external symbol _glad_glClearColor
+main.obj : error LNK2001: unresolved external symbol _glad_glEnable
+main.obj : error LNK2001: unresolved external symbol _glad_glDepthFunc
+main.obj : error LNK2001: unresolved external symbol _glad_glViewport
+main.obj : error LNK2001: unresolved external symbol _glad_glDrawArrays
+main.obj : error LNK2001: unresolved external symbol _glad_glBindTexture
+main.obj : error LNK2001: unresolved external symbol _glad_glGenTextures
+main.obj : error LNK2001: unresolved external symbol _glad_glActiveTexture
+main.obj : error LNK2001: unresolved external symbol _glad_glBindBuffer
+main.obj : error LNK2001: unresolved external symbol _glad_glDeleteBuffers
+main.obj : error LNK2001: unresolved external symbol _glad_glGenBuffers
+main.obj : error LNK2001: unresolved external symbol _glad_glBufferData
+main.obj : error LNK2001: unresolved external symbol _glad_glAttachShader
+main.obj : error LNK2001: unresolved external symbol _glad_glCompileShader
+main.obj : error LNK2001: unresolved external symbol _glad_glCreateProgram
+main.obj : error LNK2001: unresolved external symbol _glad_glCreateShader
+main.obj : error LNK2001: unresolved external symbol _glad_glDeleteShader
+main.obj : error LNK2001: unresolved external symbol _glad_glEnableVertexAttribArray
+main.obj : error LNK2001: unresolved external symbol _glad_glGetProgramiv
+main.obj : error LNK2001: unresolved external symbol _glad_glGetProgramInfoLog
+main.obj : error LNK2001: unresolved external symbol _glad_glGetShaderiv
+main.obj : error LNK2001: unresolved external symbol _glad_glGetShaderInfoLog
+main.obj : error LNK2001: unresolved external symbol _glad_glGetUniformLocation
+main.obj : error LNK2001: unresolved external symbol _glad_glLinkProgram
+main.obj : error LNK2001: unresolved external symbol _glad_glShaderSource
+main.obj : error LNK2001: unresolved external symbol _glad_glUseProgram
+main.obj : error LNK2001: unresolved external symbol _glad_glUniform1i
+main.obj : error LNK2001: unresolved external symbol _glad_glUniformMatrix4fv
+main.obj : error LNK2001: unresolved external symbol _glad_glVertexAttribPointer
+main.obj : error LNK2001: unresolved external symbol _glad_glGenerateMipmap
+main.obj : error LNK2001: unresolved external symbol _glad_glBindVertexArray
+main.obj : error LNK2001: unresolved external symbol _glad_glDeleteVertexArrays
+main.obj : error LNK2001: unresolved external symbol _glad_glGenVertexArrays
+E:\Works\LearnOpenGL\Projects\Chapter 4 - Advanced OpenGL\4.1-Depth Testing\4.1-Depth Testing\Debug\4.1-Depth Testing.exe : fatal error LNK1120: 53 unresolved externals

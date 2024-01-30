@@ -1,0 +1,4 @@
+﻿E:\Program Files\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (6.3.IBL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  main.cpp
+  6.3-IBL.vcxproj -> E:\Works\LearnOpenGL-Code\Projects\Chapter 6 - PBR\6.3-IBL\x64\Debug\6.3-IBL.exe

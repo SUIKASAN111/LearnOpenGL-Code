@@ -1,0 +1,8 @@
+﻿  glad.c
+  main.cpp
+  Previous IPDB not found, fall back to full compilation.
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 451 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  5.3.1-Shadow Mapping.vcxproj -> E:\Works\LearnOpenGL\Projects\Chapter 5 - Advanced Lighting\5.3.1-Shadow Mapping\x64\Release\5.3.1-Shadow Mapping.exe

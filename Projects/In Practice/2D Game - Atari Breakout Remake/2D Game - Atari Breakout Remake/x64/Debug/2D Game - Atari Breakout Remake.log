@@ -1,0 +1,8 @@
+﻿  game.cpp
+E:\Works\LearnOpenGL\Projects\In Practice\2D Game - Atari Breakout Remake\2D Game - Atari Breakout Remake\game.cpp(121,42): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Works\LearnOpenGL\Projects\In Practice\2D Game - Atari Breakout Remake\2D Game - Atari Breakout Remake\game.cpp(226,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Works\LearnOpenGL\Projects\In Practice\2D Game - Atari Breakout Remake\2D Game - Atari Breakout Remake\game.cpp(237,59): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  main.cpp
+E:\Works\LearnOpenGL\Projects\In Practice\2D Game - Atari Breakout Remake\2D Game - Atari Breakout Remake\main.cpp(131,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  2D Game - Atari Breakout Remake.vcxproj -> E:\Works\LearnOpenGL\Projects\In Practice\2D Game - Atari Breakout Remake\x64\Debug\2D Game - Atari Breakout Remake.exe

@@ -1,0 +1,13 @@
+﻿  glad.c
+  main.cpp
+E:\Works\LearnOpenGL\Projects\Chapter 2 - Lighting\2.2-BasicLighting\2.2-BasicLighting\main.cpp(177,35): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Works\LearnOpenGL\Projects\Chapter 2 - Lighting\2.2-BasicLighting\2.2-BasicLighting\main.cpp(178,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  2.2-BasicLighting.vcxproj -> E:\Works\LearnOpenGL\Projects\Chapter 2 - Lighting\2.2-BasicLighting\x64\Debug\2.2-BasicLighting.exe
